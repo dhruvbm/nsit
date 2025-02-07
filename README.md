@@ -46,7 +46,7 @@ A **News Blogging Website** that allows users to read, search, and manage blog p
    - Open `http://localhost:8000` in your browser.  
 
 ## 📸 Screenshots  
-_Add screenshots here_  
+📎 [View Project PPT](https://github.com/dhruvbm/nsit/blob/master/ppt.pdf)  
 
 ## 🤝 Contributing  
 1. **Fork the repository**  
@@ -68,7 +68,7 @@ _Add screenshots here_
 This project is open-source and free to use.  
 
 ## 📄 Documentation  
-📎 [Download Project Documentation](Project-Docs/News-Blogging-Website.docx)  
+📎 [Download Project Documentation](https://github.com/dhruvbm/nsit/blob/master/dhruv-minor-project11.pdf)
 
 ---
 
