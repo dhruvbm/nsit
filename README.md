@@ -1,39 +1,75 @@
-📰 News Blogging Website
-A fully functional news blogging website with client-side and admin-side features, built using HTML, CSS, JavaScript, PHP, and MySQL. The project includes CRUD operations, an admin dashboard, category management, and a user-friendly blog interface.
+Here’s your GitHub description formatted properly:  
 
-🚀 Features
-🔹 Client Side
-🏠 Home Page – Displays categories, blogs, a search bar, and recent posts.
-📂 Category Page – Showcases blogs based on selected categories.
-✍️ Author Page – Displays all posts by a selected author.
-📖 Content Page – Shows the full blog content when clicked.
-🔍 Search Page – Displays blogs matching search keywords.
-🆕 Recent Posts – Highlights the latest published blogs.
-🔹 Admin Side
-🔑 Login Page – Secure login for admin users.
-🏠 Dashboard – Overview of total posts, categories, and users.
-✏️ Post Management – Add, update, delete, and view blog posts.
-📌 Category Management – Create, update, and delete categories.
-👥 User Management – Manage admin users with role-based access.
-⚙️ Settings – Modify website name and logo.
-📊 CRUD Operations – Perform Create, Read, Update, and Delete actions.
-🛠️ Tech Stack
-Front-End: HTML, CSS, JavaScript, Bootstrap
-Back-End: PHP
-Database: MySQL
-📸 Screenshots
-Add relevant screenshots of your website here.
+---
 
-🔗 Installation Guide
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/news-blogging-website.git
-cd news-blogging-website
-Import the MySQL database (DB file included in the project).
-Configure config.php with your database credentials.
-Run the project on a local server (XAMPP/WAMP/LAMP).
-Access the website in your browser.
-📜 License
-This project is open-source and free to use.
+# 📰 News Blogging Website  
+
+A **News Blogging Website** that allows users to read, search, and manage blog posts based on categories and authors. The platform includes an **Admin Panel** for managing posts, users, and website settings.  
+
+## 📌 Table of Contents  
+- [Features](#features)  
+- [Tech Stack](#tech-stack)  
+- [Installation](#installation)  
+- [Screenshots](#screenshots)  
+- [Contributing](#contributing)  
+- [License](#license)  
+- [Documentation](#documentation)  
+
+## ✨ Features  
+- User-friendly blogging platform with category-based navigation.  
+- **Admin Panel** for CRUD operations (Posts, Categories, Users).  
+- **Search functionality** for finding relevant blogs.  
+- **Author-based filtering** to view posts by specific authors.  
+- **Responsive design** using Bootstrap for mobile and desktop.  
+- **Image upload support** for blog posts.  
+- **Secure user authentication** in the admin panel.  
+
+## 🛠 Tech Stack  
+- **Frontend:** HTML, CSS, Bootstrap  
+- **Backend:** PHP  
+- **Database:** MySQL  
+
+## 📥 Installation  
+
+1. **Clone the repository**  
+   ```bash
+   git clone https://github.com/your-username/news-blogging-website.git
+   cd news-blogging-website
+   ```  
+2. **Setup MySQL Database**  
+   - Import `database.sql` file into your MySQL server.  
+   - Update database credentials in `config.php`.  
+3. **Start the project**  
+   ```bash
+   php -S localhost:8000
+   ```  
+   - Open `http://localhost:8000` in your browser.  
+
+## 📸 Screenshots  
+_Add screenshots here_  
+
+## 🤝 Contributing  
+1. **Fork the repository**  
+2. **Create a new branch**  
+   ```bash
+   git checkout -b feature-branch
+   ```  
+3. **Commit your changes**  
+   ```bash
+   git commit -m "Added new feature"  
+   ```  
+4. **Push to the branch**  
+   ```bash
+   git push origin feature-branch  
+   ```  
+5. **Submit a Pull Request** 🎉  
+
+## 📜 License  
+This project is open-source and free to use.  
+
+## 📄 Documentation  
+📎 [Download Project Documentation](Project-Docs/News-Blogging-Website.docx)  
+
+---
+
+Let me know if you need any modifications! 🚀
